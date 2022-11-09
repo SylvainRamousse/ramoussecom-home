@@ -53,8 +53,3 @@ disableKinds = ["taxonomy", "term"]
     # { whatsapp = "https://wa.me/phone-number" },
     # { youtube = "https://youtube.com/username" },
   ]
-
-[module]
-  [module.hugoVersion]
-    extended = false
-    min = "0.86.1"
