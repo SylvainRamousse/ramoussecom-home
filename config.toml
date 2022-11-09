@@ -5,7 +5,7 @@ theme = 'lynx'
 
 defaultContentLanguage = "en"
 
-copyright = "launch with :hamburger: in Lyon, powered by Hugo "
+copyright = "Launched in 2022 with :hamburger: and :beer: in Lyon, powered by <a href='https://gohugo.io/'>Hugo</a> "
 
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
