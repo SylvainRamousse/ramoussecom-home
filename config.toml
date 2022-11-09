@@ -5,7 +5,7 @@ theme = 'lynx'
 
 defaultContentLanguage = "en"
 
-copyright = "Copy, _right?_ :thinking_face:"
+copyright = "Copy, _right?_ :burger:, powered by Hugo "
 
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
