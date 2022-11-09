@@ -13,7 +13,7 @@ disableKinds = ["taxonomy", "term"]
 [author]
     name = "Sylvain Ramousse"
     headline = "Entrepreneur, Product & Tech"
-    image = "static/avatar.png"  # path relative to static directory
+    image = "avatar.png"  # path relative to static directory
 
   links = [
     { email = "mailto:sylvain@ramousse.com" },
