@@ -18,7 +18,7 @@ minify:
 
 languages:
     en:
-        languageName: "English"
+        languageName: ":us:"
         weight: 1
         taxonomies:
           category: categories
@@ -44,7 +44,7 @@ languages:
         languageName: ":fr:"
         languageAltTitle: French
         weight: 2
-        title: PaperModL2
+        title: Sylvain Ramousse - Pages Personnelles
         taxonomies:
           category: FRcategories
           tag: FRtags
@@ -56,28 +56,28 @@ languages:
             imageTitle: ProfileMode image
             # imageWidth: 120
             # imageHeight: 120
-            subtitle: "☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive"
-            buttons:
-                - name: Blog
-                  url: posts
-                - name: Profile Mode
-                  url: https://github.com/adityatelange/hugo-PaperMod/wiki/Features#profile-mode
+            #subtitle: "☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive"
+            #buttons:
+            #    - name: Blog
+            #      url: posts
+            #    - name: Profile Mode
+            #      url: https://github.com/adityatelange/hugo-PaperMod/wiki/Features#profile-mode
         menu:
             main:
-                - name: Archive
-                  url: archives/
-                  weight: 5
-                - name: FRTags
-                  url: frtags
-                  weight: 10
-                - name: FRCategories
-                  url: frcategories
-                  weight: 10
-                - name: FRSeries
-                  url: frseries
-                  weight: 10
-                - name: NullLink
-                  url: "#"
+            #    - name: Archive
+            #      url: archives/
+            #      weight: 5
+            #    - name: FRTags
+            #      url: frtags
+            #      weight: 10
+            #    - name: FRCategories
+            #      url: frcategories
+            #      weight: 10
+            #    - name: FRSeries
+            #      url: frseries
+            #      weight: 10
+            #    - name: NullLink
+            #      url: "#"
 
 outputs:
     home:
