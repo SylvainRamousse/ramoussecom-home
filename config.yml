@@ -24,8 +24,8 @@ languages:
           category: categories
           tag: tags
           series: series
-        menu:
-            main:
+        #menu:
+            #main:
                 #- name: Archive
                 #  url: archives
                 #  weight: 5
@@ -62,8 +62,8 @@ languages:
             #      url: posts
             #    - name: Profile Mode
             #      url: https://github.com/adityatelange/hugo-PaperMod/wiki/Features#profile-mode
-        menu:
-            main:
+       # menu:
+        #    main:
             #    - name: Archive
             #      url: archives/
             #      weight: 5
