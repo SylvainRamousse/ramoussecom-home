@@ -19,7 +19,7 @@ disableKinds = ["taxonomy", "term"]
     { link = { href = "https://blog.ramousse.com/", text = "Some articles" }},
     { email = "mailto:sylvain@ramousse.com" },
     { linkedin = "https://linkedin.com/in/sylvainramousse" },
-    { twitter = "https://twitter.com/sylvainramousse" }
+    { twitter = "https://twitter.com/sylvainramousse" },
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
     # { apple = "https://www.apple.com" },
     # { codepen = "https://codepen.io/username" },
