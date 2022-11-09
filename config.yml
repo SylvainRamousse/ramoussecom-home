@@ -44,14 +44,14 @@ languages:
         languageName: ":fr:"
         languageAltTitle: French
         weight: 2
-        title: Sylvain Ramousse - Pages Personnelles
+        title: Sylvain Ramousse - Pages Personnelle
         taxonomies:
           category: FRcategories
           tag: FRtags
           series: FRseries
         profileMode:
             enabled: true
-            title: PaperMod
+            title: Bienvenue !
             imageUrl: "https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f317.svg"
             imageTitle: ProfileMode image
             # imageWidth: 120
@@ -101,7 +101,7 @@ params:
     ShowBreadCrumbs: true
     ShowCodeCopyButtons: true
     ShowRssButtonInSectionTermList: true
-    ShowToc: true
+    ShowToc: false
     # comments: false
     images: ["papermod-cover.png"]
 
