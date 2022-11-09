@@ -13,12 +13,13 @@ disableKinds = ["taxonomy", "term"]
 [author]
     name = "Sylvain Ramousse"
     headline = "Entrepreneur, Product & Tech"
-  # image = "img/author.jpg"  # path relative to static directory
+    image = "static/avatar.png"  # path relative to static directory
 
   links = [
     { email = "mailto:sylvain@ramousse.com" },
     { linkedin = "https://linkedin.com/in/sylvainramousse" },
     { link = "https://blog.ramousse.com/", text = "Some written articles" },
+     { twitter = "https://twitter.com/sylvainramousse" }
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
     # { apple = "https://www.apple.com" },
     # { codepen = "https://codepen.io/username" },
@@ -49,7 +50,6 @@ disableKinds = ["taxonomy", "term"]
     # { tiktok = "https://tiktok.com/@username" },
     # { tumblr = "https://username.tumblr.com" },
     # { twitch = "https://twitch.tv/username" },
-     { twitter = "https://twitter.com/sylvainramousse" },
     # { whatsapp = "https://wa.me/phone-number" },
     # { youtube = "https://youtube.com/username" },
   ]
