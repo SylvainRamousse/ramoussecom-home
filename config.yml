@@ -67,7 +67,7 @@ params:
     imageTitle: my image
     buttons:
       - name: Blog
-        url: "/archives"
+        url: "/blog"
  
 
   # home-info mode
@@ -116,8 +116,8 @@ params:
 menu:
   main:
     - identifier: archives
-      name: archives
-      url: /archives/
+      name: blog
+      url: /blog/
       weight: 10
 #    - identifier: example
 #      name: example.org
