@@ -1,4 +1,4 @@
-baseURL: ""
+baseURL: "https://ramousse.com/"
 title: "Sylvain Ramousse"
 paginate: 5
 theme: PaperMod
