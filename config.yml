@@ -60,7 +60,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: "Sylvain Ramousse"
-    subtitle: "I do product"
+    subtitle: "I do <b>product</b>"
     imageUrl: "/images/Avatar.png"
     imageWidth: 120
     imageHeight: 120
