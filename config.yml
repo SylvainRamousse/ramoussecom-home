@@ -115,8 +115,8 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: archives
-      name: blog
+    - identifier: blog
+      name: Blog
       url: /blog/
       weight: 10
 #    - identifier: example
